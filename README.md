@@ -35,24 +35,3 @@ backend engineer who'd rather build the system than talk about it
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 📊 the stats
-
-<div align="center">
-
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamkumar-oss-hub&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumar-oss-hub&layout=compact&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-**let's connect →** [gautamkumarcareers@gmail.com](mailto:gautamkumarcareers@gmail.com) · [LinkedIn](https://linkedin.com/in/gautamkumar-oss) · [GitHub](https://github.com/gautamkumar-oss-hub) · Bengaluru, Karnataka
-
-*open to SDE / Backend Engineer roles — dm me, let's build something* 🔥
-
-</div>
