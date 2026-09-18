@@ -15,15 +15,6 @@ backend engineer who'd rather build the system than talk about it
 
 ---
 
-## ⚡ what I'm about
-
-- microservices that actually talk to each other through **Kafka**, not duct tape
-- making databases faster with **Redis** so nobody has to wait
-- shipping everything in **Docker/Kubernetes** on **AWS**
-- teaching backends to be a little smarter with **LangChain + RAG**
-
----
-
 ## 🧰 stack
 
 <div align="center">
@@ -44,22 +35,6 @@ backend engineer who'd rather build the system than talk about it
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 💻 currently
-
-**Backend Development Intern @ Syntecxhub** · Kanpur Nagar, UP · Apr–May 2026
-
-building & maintaining REST APIs in an actual Agile team, plus made queries ~40% faster by wiring in Redis caching. small internship, real production habits.
-
----
-
-## 🏅 receipts
-
-- Advanced Software Engineering Job Simulation — **Forage**
-- AI Upskilling Certificate: Hands-On Development from Model to App — **Qualcomm**
-- Java SE 21 Developer (1Z0-830) Cert Prep — **LinkedIn Learning**
 
 ---
 
